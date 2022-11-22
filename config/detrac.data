@@ -1,6 +1,0 @@
-classes= 4
-train=./data/detrac/train.txt
-valid=./data/detrac/validation.txt
-test=./data/detrac/test.txt
-names=./data/detrac.names
-backup=backup/
