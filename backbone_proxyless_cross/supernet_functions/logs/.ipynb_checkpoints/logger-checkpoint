@@ -1,0 +1,82 @@
+10/18 04:04:10 PM | Firstly, start to train weights for epoch 0
+10/18 04:13:07 PM | Firstly, start to train weights for epoch 0
+10/18 04:15:30 PM | Firstly, start to train weights for epoch 0
+10/18 04:21:07 PM | Firstly, start to train weights for epoch 0
+10/18 04:23:30 PM | Firstly, start to train weights for epoch 0
+10/18 04:25:21 PM | Firstly, start to train weights for epoch 0
+10/18 04:37:58 PM | Firstly, start to train weights for epoch 0
+10/18 04:38:10 PM | training_w_step_: [  1/180] Step 003/003 Loss nan ce_loss nan, lat_loss inf iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:38:10 PM | Firstly, start to train weights for epoch 1
+10/18 04:38:14 PM | training_w_step_: [  2/180] Step 003/003 Loss nan ce_loss nan, lat_loss inf iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:38:14 PM | Firstly, start to train weights for epoch 2
+10/18 04:38:19 PM | training_w_step_: [  3/180] Step 003/003 Loss nan ce_loss nan, lat_loss inf iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:38:19 PM | Firstly, start to train weights for epoch 3
+10/18 04:38:23 PM | training_w_step_: [  4/180] Step 003/003 Loss nan ce_loss nan, lat_loss inf iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:38:23 PM | Firstly, start to train weights for epoch 4
+10/18 04:38:27 PM | training_w_step_: [  5/180] Step 003/003 Loss nan ce_loss nan, lat_loss inf iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:38:27 PM | Firstly, start to train weights for epoch 5
+10/18 04:41:11 PM | Firstly, start to train weights for epoch 0
+10/18 04:41:22 PM | training_w_step_: [  1/180] Step 003/003 Loss nan ce_loss nan, lat_loss nan iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:41:22 PM | Firstly, start to train weights for epoch 1
+10/18 04:41:27 PM | training_w_step_: [  2/180] Step 003/003 Loss nan ce_loss nan, lat_loss nan iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:41:27 PM | Firstly, start to train weights for epoch 2
+10/18 04:41:31 PM | training_w_step_: [  3/180] Step 003/003 Loss nan ce_loss nan, lat_loss nan iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:41:31 PM | Firstly, start to train weights for epoch 3
+10/18 04:41:36 PM | training_w_step_: [  4/180] Step 003/003 Loss nan ce_loss nan, lat_loss nan iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:41:36 PM | Firstly, start to train weights for epoch 4
+10/18 04:41:41 PM | training_w_step_: [  5/180] Step 003/003 Loss nan ce_loss nan, lat_loss nan iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:41:41 PM | Firstly, start to train weights for epoch 5
+10/18 04:41:46 PM | training_w_step_: [  6/180] Step 003/003 Loss nan ce_loss nan, lat_loss nan iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:41:46 PM | Firstly, start to train weights for epoch 6
+10/18 04:41:50 PM | training_w_step_: [  7/180] Step 003/003 Loss nan ce_loss nan, lat_loss nan iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:41:50 PM | Firstly, start to train weights for epoch 7
+10/18 04:41:55 PM | training_w_step_: [  8/180] Step 003/003 Loss nan ce_loss nan, lat_loss nan iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:41:55 PM | Firstly, start to train weights for epoch 8
+10/18 04:41:59 PM | training_w_step_: [  9/180] Step 003/003 Loss nan ce_loss nan, lat_loss nan iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:41:59 PM | Firstly, start to train weights for epoch 9
+10/18 04:42:04 PM | training_w_step_: [ 10/180] Step 003/003 Loss nan ce_loss nan, lat_loss nan iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:42:04 PM | Start to train weights for epoch 10
+10/18 04:42:08 PM | training_w_step_: [ 11/180] Step 003/003 Loss nan ce_loss nan, lat_loss nan iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:42:08 PM | Start to train theta for epoch 10
+10/18 04:43:23 PM | Firstly, start to train weights for epoch 0
+10/18 04:43:34 PM | training_w_step_: [  1/180] Step 003/003 Loss 18.878 ce_loss 2.431, lat_loss 38.834 iou_loss 0.077, obj_loss 1.612, cls_loss 0.741
+10/18 04:43:34 PM | Firstly, start to train weights for epoch 1
+10/18 04:43:38 PM | training_w_step_: [  2/180] Step 003/003 Loss 19.172 ce_loss 2.468, lat_loss 38.834 iou_loss 0.081, obj_loss 1.600, cls_loss 0.788
+10/18 04:43:38 PM | Firstly, start to train weights for epoch 2
+10/18 04:43:43 PM | training_w_step_: [  3/180] Step 003/003 Loss 18.833 ce_loss 2.425, lat_loss 38.834 iou_loss 0.084, obj_loss 1.609, cls_loss 0.732
+10/18 04:43:43 PM | Firstly, start to train weights for epoch 3
+10/18 04:43:47 PM | training_w_step_: [  4/180] Step 003/003 Loss 19.235 ce_loss 2.477, lat_loss 38.834 iou_loss 0.086, obj_loss 1.607, cls_loss 0.784
+10/18 04:43:47 PM | Firstly, start to train weights for epoch 4
+10/18 04:43:52 PM | training_w_step_: [  5/180] Step 003/003 Loss 19.045 ce_loss 2.452, lat_loss 38.834 iou_loss 0.082, obj_loss 1.608, cls_loss 0.762
+10/18 04:43:52 PM | Firstly, start to train weights for epoch 5
+10/18 04:43:56 PM | training_w_step_: [  6/180] Step 003/003 Loss 18.902 ce_loss 2.434, lat_loss 38.834 iou_loss 0.077, obj_loss 1.602, cls_loss 0.754
+10/18 04:43:56 PM | Firstly, start to train weights for epoch 6
+10/18 04:44:01 PM | training_w_step_: [  7/180] Step 003/003 Loss 18.817 ce_loss 2.423, lat_loss 38.834 iou_loss 0.079, obj_loss 1.606, cls_loss 0.738
+10/18 04:44:01 PM | Firstly, start to train weights for epoch 7
+10/18 04:44:05 PM | training_w_step_: [  8/180] Step 003/003 Loss 18.962 ce_loss 2.441, lat_loss 38.834 iou_loss 0.086, obj_loss 1.606, cls_loss 0.750
+10/18 04:44:05 PM | Firstly, start to train weights for epoch 8
+10/18 04:44:10 PM | training_w_step_: [  9/180] Step 003/003 Loss 19.224 ce_loss 2.475, lat_loss 38.834 iou_loss 0.081, obj_loss 1.604, cls_loss 0.790
+10/18 04:44:10 PM | Firstly, start to train weights for epoch 9
+10/18 04:44:14 PM | training_w_step_: [ 10/180] Step 003/003 Loss 19.195 ce_loss 2.471, lat_loss 38.834 iou_loss 0.085, obj_loss 1.607, cls_loss 0.780
+10/18 04:44:14 PM | Start to train weights for epoch 10
+10/18 04:44:19 PM | training_w_step_: [ 11/180] Step 003/003 Loss 17.935 ce_loss 2.309, lat_loss 38.834 iou_loss 0.080, obj_loss 1.498, cls_loss 0.732
+10/18 04:44:19 PM | Start to train theta for epoch 10
+10/18 04:44:25 PM | training_arch_step_: [ 11/180] Step 002/002 Loss 19.041 ce_loss 2.452, lat_loss 38.834 iou_loss 0.084, obj_loss 1.607, cls_loss 0.761
+10/18 04:53:14 PM | Firstly, start to train weights for epoch 0
+10/18 04:53:25 PM | training_w_step_: [  1/180] Step 003/003 Loss -15.500 ce_loss 2.449, lat_loss -31.640 iou_loss 0.085, obj_loss 1.612, cls_loss 0.753
+10/18 04:53:25 PM | Firstly, start to train weights for epoch 1
+10/18 04:53:30 PM | training_w_step_: [  2/180] Step 003/003 Loss -15.646 ce_loss 2.473, lat_loss -31.640 iou_loss 0.078, obj_loss 1.610, cls_loss 0.785
+10/18 04:53:30 PM | Firstly, start to train weights for epoch 2
+10/18 04:53:34 PM | training_w_step_: [  3/180] Step 003/003 Loss -15.621 ce_loss 2.469, lat_loss -31.640 iou_loss 0.084, obj_loss 1.603, cls_loss 0.781
+10/18 04:53:34 PM | Start to train weights for epoch 3
+10/18 04:53:39 PM | training_w_step_: [  4/180] Step 003/003 Loss -15.445 ce_loss 2.441, lat_loss -31.640 iou_loss 0.083, obj_loss 1.600, cls_loss 0.758
+10/18 04:53:39 PM | Start to train theta for epoch 3
+10/18 04:55:15 PM | Firstly, start to train weights for epoch 0
+10/18 04:55:25 PM | training_w_step_: [  1/180] Step 003/003 Loss nan ce_loss nan, lat_loss inf iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:55:25 PM | Firstly, start to train weights for epoch 1
+10/18 04:55:30 PM | training_w_step_: [  2/180] Step 003/003 Loss nan ce_loss nan, lat_loss inf iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:55:30 PM | Firstly, start to train weights for epoch 2
+10/18 04:55:35 PM | training_w_step_: [  3/180] Step 003/003 Loss nan ce_loss nan, lat_loss inf iou_loss nan, obj_loss nan, cls_loss nan
+10/18 04:55:35 PM | Start to train weights for epoch 3
+10/18 04:56:03 PM | Firstly, start to train weights for epoch 0
+10/18 04:56:45 PM | Firstly, start to train weights for epoch 0

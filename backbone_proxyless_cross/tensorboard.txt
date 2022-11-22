@@ -1,0 +1,34 @@
+tensorboard --logdir=./supernet_functions/logs/tb --host=127.0.0.1
+
+### batch training
+
+sbatch supernet_main_file.py --w_lr=0.1 --thetas_lr=0.1 --scale_sparse_rate=1e-5 --tb_path=./supernet_functions/logs/tb0
+sbatch supernet_main_file.py --w_lr=0.1 --thetas_lr=0.01 --scale_sparse_rate=1e-5 --tb_path=./supernet_functions/logs/tb1
+sbatch supernet_main_file.py --w_lr=0.1 --thetas_lr=0.01 --scale_sparse_rate=5e-5 --tb_path=./supernet_functions/logs/tb2
+sbatch supernet_main_file.py --w_lr=0.1 --thetas_lr=0.01 --scale_sparse_rate=1e-4 --tb_path=./supernet_functions/logs/tb3
+sbatch supernet_main_file.py --w_lr=0.1 --thetas_lr=0.001 --scale_sparse_rate=1e-5 --tb_path=./supernet_functions/logs/tb4
+sbatch supernet_main_file.py --w_lr=0.1 --thetas_lr=0.0001 --scale_sparse_rate=1e-5 --tb_path=./supernet_functions/logs/tb5
+sbatch supernet_main_file.py --w_lr=0.01 --thetas_lr=0.01 --scale_sparse_rate=1e-5 --tb_path=./supernet_functions/logs/tb6
+sbatch supernet_main_file.py --w_lr=0.001 --thetas_lr=0.01 --scale_sparse_rate=1e-5 --tb_path=./supernet_functions/logs/tb7
+
+sbatch supernet_main_file.py --w_lr=0.1 --thetas_lr=0.1 --scale_sparse_rate=1e-5 --tb_path=./supernet_functions/logs/tb8
+sbatch supernet_main_file.py --w_lr=0.1 --thetas_lr=0.2 --scale_sparse_rate=1e-5 --tb_path=./supernet_functions/logs/tb9
+
+# increase pretrain epochs
+sbatch supernet_main_file.py --w_lr=0.1 --thetas_lr=0.1 --scale_sparse_rate=1e-5 --train_thetas_from_the_epoch=50 --tb_path=./supernet_functions/logs/tb10
+sbatch supernet_main_file.py --w_lr=0.2 --thetas_lr=0.1 --scale_sparse_rate=1e-5 --train_thetas_from_the_epoch=50 --tb_path=./supernet_functions/logs/tb10
+sbatch supernet_main_file.py --w_lr=0.1 --thetas_lr=0.1 --scale_sparse_rate=1e-5 --train_thetas_from_the_epoch=75 --tb_path=./supernet_functions/logs/tb11
+
+# lock active_id
+
+sbatch supernet_main_file.py --w_lr=0.1 --thetas_lr=0.1 --scale_sparse_rate=1e-5 --train_thetas_from_the_epoch=2000 --tb_path=./supernet_functions/logs/tb12
+
+# full_v2
+
+sbatch supernet_main_file.py --w_lr=0.1 --thetas_lr=0.1 --scale_sparse_rate=1e-5 --train_thetas_from_the_epoch=30 --tb_path=./supernet_functions/logs/tb13
+
+# retieve detach
+
+sbatch supernet_main_file.py --w_lr=0.01 --thetas_lr=0.01 --scale_sparse_rate=1e-5 --train_thetas_from_the_epoch=30 --tb_path=./supernet_functions/logs/tb14
+   
+

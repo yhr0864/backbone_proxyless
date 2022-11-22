@@ -1,0 +1,59 @@
+10/26 10:22:36 AM | training_train_step_: [  1/140] Step 000/000 CE_Loss 2.167 iou_loss 0.079, obj_loss 1.388, cls_loss 0.699
+10/26 10:32:13 AM | training_train_step_: [  1/140] Step 000/000 CE_Loss 2.167 iou_loss 0.080, obj_loss 1.388, cls_loss 0.699
+10/26 10:32:17 AM | valid : [  1/140] Final Precision 0.0012%, Time 4.01
+10/26 10:33:48 AM | training_train_step_: [  1/140] Step 000/000 CE_Loss 2.168 iou_loss 0.079, obj_loss 1.388, cls_loss 0.701
+10/26 10:33:52 AM | valid : [  1/140] Final Precision 0.0012%, Time 3.99
+10/26 10:43:09 AM | training_train_step_: [  1/140] Step 000/000 CE_Loss 2.168 iou_loss 0.079, obj_loss 1.388, cls_loss 0.700
+10/26 10:43:14 AM | valid : [  1/140] Final Precision 0.0012%, Time 4.18
+10/26 10:43:14 AM | current mAP is : 0.000012
+10/26 10:43:14 AM | Best mAP by now. Save model
+10/26 10:43:20 AM | training_train_step_: [  2/140] Step 000/000 CE_Loss 2.168 iou_loss 0.079, obj_loss 1.388, cls_loss 0.700
+10/26 10:43:24 AM | valid : [  2/140] Final Precision 0.0317%, Time 4.25
+10/26 10:43:24 AM | current mAP is : 0.000317
+10/26 10:43:24 AM | Best mAP by now. Save model
+10/26 10:51:57 AM | training_train_step_: [  1/140] Step 000/000 CE_Loss 2.169 iou_loss 0.080, obj_loss 1.388, cls_loss 0.701
+10/26 10:52:01 AM | valid : [  1/140] Final Precision 0.0009%, Time 4.00
+10/26 10:52:02 AM | current mAP is : 0.000009
+10/26 10:52:02 AM | Best mAP by now. Save model
+10/26 10:52:07 AM | training_train_step_: [  2/140] Step 000/000 CE_Loss 2.167 iou_loss 0.079, obj_loss 1.388, cls_loss 0.700
+10/26 10:52:12 AM | valid : [  2/140] Final Precision 0.0320%, Time 4.31
+10/26 10:52:12 AM | current mAP is : 0.000320
+10/26 10:52:12 AM | Best mAP by now. Save model
+10/26 04:28:23 PM | training_train_step_: [  1/140] Step 000/000 CE_Loss 2.157 iou_loss 0.078, obj_loss 1.386, cls_loss 0.693
+10/26 04:28:28 PM | valid : [  1/140] Final Precision 0.0083%, Time 5.42
+10/26 04:28:29 PM | current mAP is : 0.000083
+10/26 04:28:29 PM | Best mAP by now. Save model
+10/26 04:28:34 PM | training_train_step_: [  2/140] Step 000/000 CE_Loss 2.156 iou_loss 0.077, obj_loss 1.386, cls_loss 0.693
+10/26 04:28:39 PM | valid : [  2/140] Final Precision 0.0083%, Time 4.72
+10/26 04:28:39 PM | current mAP is : 0.000083
+10/26 08:23:17 PM | training_train_step_: [  1/140] Step 000/000 CE_Loss 2.173 iou_loss 0.079, obj_loss 1.389, cls_loss 0.705
+10/26 08:23:22 PM | valid : [  1/140] Final Precision 0.0000%, Time 4.70
+10/26 08:23:22 PM | current mAP is : 0.000000
+10/26 08:23:28 PM | training_train_step_: [  2/140] Step 000/000 CE_Loss 2.169 iou_loss 0.079, obj_loss 1.389, cls_loss 0.701
+10/26 08:23:33 PM | valid : [  2/140] Final Precision 0.0000%, Time 5.39
+10/26 08:23:33 PM | current mAP is : 0.000000
+10/26 08:23:33 PM | Best mAP by now. Save model
+10/26 08:23:39 PM | training_train_step_: [  3/140] Step 000/000 CE_Loss 2.165 iou_loss 0.079, obj_loss 1.388, cls_loss 0.698
+10/27 09:21:10 PM | training_train_step_: [  1/140] Step 050/149 CE_Loss 2.136 iou_loss 0.075, obj_loss 1.386, cls_loss 0.675
+10/27 09:21:17 PM | training_train_step_: [  1/140] Step 100/149 CE_Loss 2.112 iou_loss 0.077, obj_loss 1.386, cls_loss 0.648
+10/27 09:21:23 PM | training_train_step_: [  1/140] Step 149/149 CE_Loss 2.101 iou_loss 0.075, obj_loss 1.386, cls_loss 0.640
+10/27 09:22:00 PM | valid : [  1/140] Final Precision 0.0175%, Time 36.83
+10/27 09:22:00 PM | current mAP is : 0.000175
+10/27 09:22:00 PM | Best mAP by now. Save model
+10/27 09:22:10 PM | training_train_step_: [  2/140] Step 050/149 CE_Loss 2.093 iou_loss 0.076, obj_loss 1.386, cls_loss 0.631
+10/27 09:22:16 PM | training_train_step_: [  2/140] Step 100/149 CE_Loss 2.102 iou_loss 0.077, obj_loss 1.386, cls_loss 0.638
+10/27 09:22:22 PM | training_train_step_: [  2/140] Step 149/149 CE_Loss 2.105 iou_loss 0.079, obj_loss 1.386, cls_loss 0.640
+10/27 09:22:49 PM | valid : [  2/140] Final Precision 0.0143%, Time 26.52
+10/27 09:22:49 PM | current mAP is : 0.000143
+10/27 09:22:59 PM | training_train_step_: [  3/140] Step 050/149 CE_Loss 2.111 iou_loss 0.078, obj_loss 1.386, cls_loss 0.646
+10/27 09:23:05 PM | training_train_step_: [  3/140] Step 100/149 CE_Loss 2.135 iou_loss 0.077, obj_loss 1.386, cls_loss 0.671
+10/27 09:23:11 PM | training_train_step_: [  3/140] Step 149/149 CE_Loss 2.128 iou_loss 0.075, obj_loss 1.386, cls_loss 0.667
+10/27 09:23:38 PM | valid : [  3/140] Final Precision 0.0184%, Time 26.37
+10/27 09:23:38 PM | current mAP is : 0.000184
+10/27 09:23:38 PM | Best mAP by now. Save model
+10/27 09:23:48 PM | training_train_step_: [  4/140] Step 050/149 CE_Loss 2.100 iou_loss 0.072, obj_loss 1.386, cls_loss 0.642
+10/27 09:23:54 PM | training_train_step_: [  4/140] Step 100/149 CE_Loss 2.084 iou_loss 0.075, obj_loss 1.386, cls_loss 0.623
+10/27 09:24:01 PM | training_train_step_: [  4/140] Step 149/149 CE_Loss 2.117 iou_loss 0.074, obj_loss 1.386, cls_loss 0.656
+10/27 09:24:27 PM | valid : [  4/140] Final Precision 0.0265%, Time 26.52
+10/27 09:24:28 PM | current mAP is : 0.000265
+10/27 09:24:28 PM | Best mAP by now. Save model
